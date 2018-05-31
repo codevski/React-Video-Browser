@@ -13,7 +13,7 @@ install:
   - npm install -g mocha-phantomjs
   - npm install phantomjs -g
   - npm install -g gulp
-  - npminstall -g bower
+  - npm install -g bower
   - npm install
 script:
   - npm test
