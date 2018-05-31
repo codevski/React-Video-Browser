@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/codevski/React-Video-Browser.svg?branch=develop)](https://travis-ci.org/codevski/React-Video-Browser)
 # React Video Browser
 
 A simple video browser using YouTube API with React
