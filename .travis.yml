@@ -10,10 +10,6 @@ sudo: false
 node_js:
   - "stable"
 install:
-  - npm install -g mocha-phantomjs
-  - npm install phantomjs -g
-  - npm install -g gulp
-  - npm install -g bower
   - npm install
 script:
   - npm test
